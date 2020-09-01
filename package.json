@@ -1,0 +1,101 @@
+{
+  "name": "my-first-theme",
+  "displayName": "My First Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomorrow Airtight Glue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tomorrow-airtight-glue-color-theme.json"
+      },
+      {
+        "label": "Fatopai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fatopai-color-theme.json"
+      },
+      {
+        "label": "Lark Defaults",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lark-defaults-color-theme.json"
+      },
+      {
+        "label": "Bed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bed-color-theme.json"
+      },
+      {
+        "label": "HC Clack",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hc-clack-color-theme.json"
+      },
+      {
+        "label": "HC Clack Defaults",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hc-clack-defaults-color-theme.json"
+      },
+      {
+        "label": "Byte Defaults",
+        "uiTheme": "vs",
+        "path": "./themes/byte-defaults-color-theme.json"
+      },
+      {
+        "label": "Surprised Lark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/surprised-lark-color-theme.json"
+      },
+      {
+        "label": "Diet Byte",
+        "uiTheme": "vs",
+        "path": "./themes/diet-byte-color-theme.json"
+      },
+      {
+        "label": "Byte VS",
+        "uiTheme": "vs",
+        "path": "./themes/byte-vs-color-theme.json"
+      },
+      {
+        "label": "Trimmed Fatopai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trimmed-fatopai-color-theme.json"
+      },
+      {
+        "label": "Chimney Lark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chimney-lark-color-theme.json"
+      },
+      {
+        "label": "A Lisp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/a-lisp-color-theme.json"
+      },
+      {
+        "label": "Lark VS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lark-vs-color-theme.json"
+      },
+      {
+        "label": "Lark Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lark-plus-color-theme.json"
+      },
+      {
+        "label": "Byte Plus",
+        "uiTheme": "vs",
+        "path": "./themes/byte-plus-color-theme.json"
+      },
+      {
+        "label": "Surprised Byte",
+        "uiTheme": "vs",
+        "path": "./themes/surprised-byte-color-theme.json"
+      }
+    ]
+  }
+}
